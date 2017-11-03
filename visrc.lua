@@ -15,5 +15,7 @@ vis.events.subscribe(vis.events.WIN_OPEN, function(win)
 	--per-window configuration--
 	vis:command('set number')
 	vis:command('set autoindent on')
+	vis:command('set cursorline on')
+	vis:command('set tabwidth 4')
 end)
 
