@@ -1,0 +1,18 @@
+[submodule "plugins/vis-fzf-open"]
+	path = plugins/vis-fzf-open
+	url = https://github.com/guillaumecherel/vis-fzf-open
+[submodule "plugins/vis-ctags"]
+	path = plugins/vis-ctags
+	url = https://github.com/kupospelov/vis-ctags
+[submodule "plugins/vis-modelines"]
+	path = plugins/vis-modelines
+	url = https://github.com/lutobler/vis-modelines
+[submodule "plugins/vis-commentary"]
+	path = plugins/vis-commentary
+	url = https://github.com/lutobler/vis-commentary
+[submodule "plugins/vis-surround"]
+	path = plugins/vis-surround
+	url = https://github.com/lutobler/vis-surround
+[submodule "plugins/twofinger-surround"]
+	path = plugins/twofinger-surround
+	url = https://github.com/Two-Finger/vis-surround
