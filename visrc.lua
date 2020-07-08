@@ -2,7 +2,7 @@ require('vis')
 require('plugins/filetype')
 
 --plugins--
-require('plugins/twofinger-surround/surround')
+require('plugins/twofinger-surround')
 require('plugins/vis-commentary/vis-commentary')
 require('plugins/vis-ctags/ctags')
 require('plugins/vis-fzf-open/fzf-open')

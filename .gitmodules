@@ -13,6 +13,3 @@
 [submodule "plugins/vis-surround"]
 	path = plugins/vis-surround
 	url = https://github.com/lutobler/vis-surround
-[submodule "plugins/twofinger-surround"]
-	path = plugins/twofinger-surround
-	url = https://github.com/Two-Finger/vis-surround
